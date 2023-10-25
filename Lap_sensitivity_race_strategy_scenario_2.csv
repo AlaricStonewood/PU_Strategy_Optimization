@@ -1,0 +1,24 @@
+Round,Race,Laptime (s),Lap Distance (m),Number of Race Laps,Race Laptime Sensitivity (ms/kW per lap),Lap Sensitivity,PU Chosen,Engine Km,Race Delta (Ms)
+1,Bahrain Grand Prix,95.47,5356,57,22,NORMAL,1.0,750.0,4702.5
+2,Saudi Arabian Grand Prix,91.8,6098,50,29,HIGH,2.0,750.0,5437.5
+3,Australian Grand Prix,81.69,5229,58,29,HIGH,1.0,1500.0,12615.0
+4,Azerbaijan Grand Prix,106.4,5948,51,29,HIGH,2.0,1500.0,11092.5
+5,Miami Grand Prix,91.46,5337,57,21,NORMAL,1.0,2250.0,13466.25
+6,Imola Grand Prix,79.33,4870,63,19,NORMAL,2.0,2250.0,13466.25
+7,Monaco Grand Prix,76.15,3281,79,10,LOW,1.0,3000.0,11850.0
+8,Spanish Grand Prix,85.61,4635,66,15,NORMAL,2.0,3000.0,14850.0
+9,Canadian Grand Prix,75.9,4312,71,18,NORMAL,3.0,750.0,4792.5
+10,Austrian Grand Prix,67.81,4289,71,16,NORMAL,3.0,1500.0,8520.0
+11,British Grand Prix,91.0,5812,52,30,HIGH,3.0,2250.0,17550.0
+12,Hungarian Grand Prix,82.1,4343,70,13,LOW,1.0,3750.0,17062.5
+13,Belgian Grand Prix,110.6,6933,44,33,HIGH,4.0,750.0,5445.0
+14,Dutch Grand Prix,73.68,4236,72,18,NORMAL,5.0,750.0,4860.0
+15,Italian Grand Prix,84.45,5757,53,33,HIGH,4.0,1500.0,13117.5
+16,Singapore Grand Prix,106.46,5004,61,12,LOW,1.0,4500.0,16470.0
+17,Japanese Grand Prix,105.0,5810,52,28,HIGH,5.0,1500.0,10920.0
+18,Qatar Grand Prix,85.04,5384,57,21,NORMAL,4.0,2250.0,13466.25
+19,United States Grand Prix,99.67,5444,56,25,NORMAL,5.0,2250.0,15750.0
+20,Mexico City Grand Prix,81.87,4244,72,13,LOW,3.0,3000.0,14040.0
+21,São Paulo Grand Prix,74.21,4250,72,19,NORMAL,4.0,3000.0,20520.0
+22,Las Vegas Grand Prix,94.5,6201,49,27,HIGH,5.0,3000.0,19845.0
+23,Abu Dhabi Grand Prix,89.07,5222,58,24,NORMAL,3.0,3750.0,26100.0
